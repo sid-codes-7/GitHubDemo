@@ -14,3 +14,9 @@ java NumGuess
 ```
 
 The game chooses a number from 1 through 100. Enter guesses until you find it.
+
+To check that the program compiles, run:
+
+```sh
+bash scripts/check-java.sh
+```
